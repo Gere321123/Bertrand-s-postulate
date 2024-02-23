@@ -11,7 +11,7 @@ And I can prove my theory!
 
 <h3>Proof
 
-Let's take a example you have n balls and every ball have a unique number on it $p_1$ to $p_n$
+Let's take a example you have n piece balls and every ball have a unique number on it $p_1$ to $p_n$
 And we have a coordinate system where we can place these balls (all integers are on the coordinate system)
 When you place down a ball, all places that are as far from the ball as the number on the ball are also eliminated
 
@@ -27,9 +27,9 @@ if we think about it more, if we put the 5 further back, we will be able to leng
 2,5,2,3,2,7,2,11,2,3,2,5,2,x
 
 How can you see a pattern in this?
-If we imagine the coordinate system from $-p_{n-1}-1$ to p_{n-1}-1, it is already much easier to see
+If we imagine the coordinate system from $-p_{n-1}-1$ to $p_{n-1}-1$, it is already much easier to see
 Since there must be something in the place of 1 and -1, therefore we put the two largest balls there (since they will not be repeated that way)
 For this example, we start at -6 and end at 6.
-If we put the balls in a different way, it will be longer because then the balls would be repeated less often!
+If we put the balls in a different way, it will not be longer then this because then the balls would be repeated less often!
 
 
