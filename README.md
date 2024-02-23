@@ -21,6 +21,7 @@ We can start the smallest one and if we find an empty space then we gonna put do
 If we follow this logic, $p_{n+1}-2$ will be our longest combination, but isn't that the best solution!
 
 Let's take a example you have 5 balls it this case: 2,3,2,5,2,7,2,3,2,11,2,x
+
 if we think about it more, if we put the 5 further back, we will be able to lengthen our chain
 
 2,5,2,3,2,7,2,11,2,3,2,5,2,x
