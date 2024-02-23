@@ -9,13 +9,13 @@ $n \leq p \leq n+2*(p_{n-1} - 1) + 1$
 
 And I can prove my theory!
 
-***Proof
+<h3>Proof<\h3>
 
 Let's take a example you have n balls and every ball have a unique number on it $p_1$ to $p_n$
 And we have a coordinate system where we can place these balls (all integers are on the coordinate system)
 When you place down a ball, all places that are as far from the ball as the number on the ball are also eliminated
 
-****The question is how to get the longest chain out of these balls so that there is no empty space between them?
+<h3>The question is how to get the longest chain out of these balls so that there is no empty space between them?<\h3>
 
 We can start the smallest one and if we find an empty space then we gonna put down the next ball up to the last ball.
 If we follow this logic, $p_{n+1}-2$ will be our longest combination, but isn't that the best solution!
