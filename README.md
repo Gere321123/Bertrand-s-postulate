@@ -7,7 +7,6 @@ My theorem is that for any integer n > 3 and $n < p_n^2$ and $n+2*(p_{n-1} - 1) 
 
 $n \leq p \leq n+2*(p_{n-1} - 1) + 1$
 
-And I can prove my theory!
 
 <h3>Proof
 
