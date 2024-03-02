@@ -28,7 +28,7 @@ def find_prime():
     n = 25
     while pnCalculation(n):
         print(n)
-        n += 1 
+        n = next_prime(n) + 1
     
 find_prime()
 
